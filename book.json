@@ -1,0 +1,11 @@
+{
+    "plugins": ["ga"],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-12341234-1"
+        }
+    },
+    "variables": {
+        "BASE_URL": "https://innssa.github.io"
+    }
+}
